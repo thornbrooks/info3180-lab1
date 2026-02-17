@@ -1,8 +1,25 @@
 body {
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
-  font-size: 14px;
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+  color: #000036;
   line-height: 1.5;
+  text-align: center;
+  
 }
+h1 {
+  color: #ff0000;
+  margin-top: 40px;
+  margin: 20px auto
+
+}
+
+p {
+  color: #555;
+  font-size: 18px;
+  width: 60%;
+  margin: 20px auto;
+}
+
 
 .container {
   max-width: 960px;
